@@ -1,0 +1,31 @@
+Write a function "readfile (char* fileName)" to read a text file.
+
+
+Print on screen the number of lines and the number of occurrences of each character in that file.
+
+
+Note that characters are not case-sensitive.
+
+
+
+Example:
+
+
+Lines = 15
+
+
+A = 20
+
+
+B = 4
+
+
+C = 38
+
+
+...
+
+
+Z = 0
+
+

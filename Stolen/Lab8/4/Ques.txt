@@ -1,0 +1,68 @@
+Given a file to store information of employers. Each line contains one employer's information, including: FullName,EmployeeID,Salary
+
+
+Write a function "process(const char* fileName)" to read that file and print on screen the list of employers in descending order of salary.
+
+
+If there are more than one employer have the same salary, print them in descending order of their ID.
+
+
+
+testcase:
+
+
+Nguyen Van A,7,12300000
+
+
+Le Van B,1,15200000
+
+
+Tran Thi C,5,9900000
+
+
+expect:
+
+
+--------------------
+
+
+Fullname: Le Van B
+
+
+ID: 1
+
+
+Salary: 15200000
+
+
+--------------------
+
+
+--------------------
+
+
+Fullname: Nguyen Van A
+
+
+ID: 7
+
+
+Salary: 12300000
+
+
+--------------------
+
+
+--------------------
+
+
+Fullname: Tran Thi C
+
+
+ID: 5
+
+
+Salary: 9900000
+
+
+--------------------

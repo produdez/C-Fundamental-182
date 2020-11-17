@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+main(){
+cout<<"Input two float numbers: ";
+float a,b;
+cin>>a>>b;
+cout<<"Sum: "<<a+b;
+cout<<"Product"<<a*b;
+cout<<"Difference: "<< a-b;
+cout<<"Quotient: "<< a/b;
+}

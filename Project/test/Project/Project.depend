@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1551672979 source:c:\users\prod\desktop\test\project\core.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<sstream>
+	<chrono>
+	<thread>
+
+1551247716 source:c:\users\prod\desktop\test\project\framecode.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"core.h"
+
+1551241006 c:\users\prod\desktop\test\project\core.h
+
+1551239428 source:c:\users\prod\desktop\test\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	"core.h"
+
+1551672979 source:c:\users\prod\desktop\project\test\project\core.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<sstream>
+	<chrono>
+	<thread>
+
+1551247716 source:c:\users\prod\desktop\project\test\project\framecode.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"core.h"
+
+1551241006 c:\users\prod\desktop\project\test\project\core.h
+
+1551239428 source:c:\users\prod\desktop\project\test\project\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	"core.h"
+

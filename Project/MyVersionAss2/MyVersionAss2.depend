@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1556961624 source:c:\users\prod\desktop\project\myversionass2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	<cassert>
+	"core.h"
+
+1556960665 c:\users\prod\desktop\project\myversionass2\core.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	<cassert>
+
+1556961533 source:c:\users\prod\desktop\project\myversionass2\core.cpp
+	"core.h"
+

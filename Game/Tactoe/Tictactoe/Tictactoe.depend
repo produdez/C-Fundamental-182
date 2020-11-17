@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1565270033 source:d:\dev\plus plus\game\tactoe\tictactoe\main.cpp
+	<iostream>
+	"Setup.h"
+
+1565265239 d:\dev\plus plus\game\tactoe\tictactoe\setup.h
+	<iostream>
+	<iomanip>
+

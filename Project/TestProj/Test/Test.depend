@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1556870851 source:c:\users\prod\desktop\project\pf182a02\test.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	<cassert>
+	"core.cpp"
+
+1556868664 c:\users\prod\desktop\project\pf182a02\core.cpp
+	"core.h"
+
+1556852369 c:\users\prod\desktop\project\pf182a02\core.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	<cassert>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1551146684 source:c:\users\prod\desktop\initcode\ass1\framecode.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"core.h"
+
+1562143177 c:\users\prod\desktop\initcode\ass1\core.h
+
+1550544752 source:c:\users\prod\desktop\initcode\ass1\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+	"core.h"
+
+1562317771 source:c:\users\prod\desktop\initcode\ass1\core.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+	<fstream>
+	<string>
+	<sstream>
+

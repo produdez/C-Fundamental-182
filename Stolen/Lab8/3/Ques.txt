@@ -1,0 +1,5 @@
+Write a program to read a text file and count the number of words in that file.
+
+
+A word is a chain of printable characters that does not contain any spaces.
+

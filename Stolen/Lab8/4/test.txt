@@ -1,0 +1,19 @@
+Joseph Evans,0,11860000
+Jessica Garcia,1,16030000
+Abigail Taylor,2,8330000
+Mason Davies,3,16330000
+Jennifer Johnson,4,13990000
+Mason Wilson,5,15020000
+Jacob Brown,6,10520000
+Robert Davies,7,18280000
+Elizabeth Jones,8,16600000
+Richard Davis,9,17260000
+Linda Williams,10,10630000
+Joseph Roberts,11,14360000
+Noah Garcia,12,19550000
+Sarah Williams,13,11690000
+Mary Brown,14,9980000
+Michael Brown,15,12470000
+Margaret Smith,16,9900000
+Jessica Taylor,17,16100000
+Con cac Taylor,18,16100000

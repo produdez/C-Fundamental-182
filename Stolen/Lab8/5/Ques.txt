@@ -1,0 +1,31 @@
+Given a file contains a matrix "A" size of MxN and data of that matrix.
+
+
+Write a program to read that file and store data in a pointer matrix that contains M pointers, each pointer store N elements.
+
+
+Example of input:
+
+
+7 8
+
+
+A T C C A G C T
+
+
+G G G C A A C T
+
+
+A T G G A T C T
+
+
+A A G C A A C C
+
+
+T T G G A A C T
+
+
+A T G C C A T T
+
+
+A T G G C A C T

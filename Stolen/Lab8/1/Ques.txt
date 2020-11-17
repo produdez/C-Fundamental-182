@@ -1,0 +1,56 @@
+Write a program to read a set of positive integer numbers (less than 100 numbers) from a text file.
+
+
+Know that in that file, each number is seperated by spaces or end-of-line symbols.
+
+
+The number -999 is the signal of ending input. Note that -999 is not a member of the set you have to read.
+
+
+In the "process" function, return false if the file does not exist.
+
+
+Print on screen each different number in ascending order, and the number of occurences of each different number in that file. 
+
+
+The output has two columns. The first is 10-character length. The second should be as short as possible.
+
+
+testcase:
+
+
+15 40 28 62 95 15 28 13 
+
+
+62 65 48 95 65 62 65 95 95 -999
+
+
+expect:
+
+
+Number Count
+
+
+13        1
+
+
+15        2
+
+
+28        2
+
+
+40        1
+
+
+48        1
+
+
+62        3
+
+
+65        3
+
+
+95        4
+

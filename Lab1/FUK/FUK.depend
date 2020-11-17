@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550675180 source:c:\users\prod\desktop\plus plus\lab1\fuk\main.cpp
+	<iostream>
+	<fstream>
+
